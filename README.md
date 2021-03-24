@@ -46,5 +46,5 @@ The recommended way of putting the exoskeleton on the arm is the following:
 5. Bend the upper-arm part on the user's arm. Make sure that the elbow joint gears are sitting right at the elbow and are aligned.
 6. Use the velcro straps to tighten the structure to the arm.
 
-<img src="https://github.com/REHYB/LegoArmExoskeleton/tree/main/pictures/velcro.png" alt="Velcro" width="400"/>
-<img src="https://github.com/REHYB/LegoArmExoskeleton/tree/main/pictures/locking_mechanism.jpg" alt="Locking mechanism" width="400"/>
+<img src="https://raw.githubusercontent.com/REHYB/LegoArmExoskeleton/main/pictures/velcro.png" alt="Velcro" width="400"/>
+<img src="https://raw.githubusercontent.com/REHYB/LegoArmExoskeleton/main/pictures/locking_mechanism.jpg" alt="Locking mechanism" width="400"/>
