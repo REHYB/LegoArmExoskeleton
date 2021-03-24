@@ -8,6 +8,9 @@ On the [Wiki pages](https://github.com/REHYB/LegoArmExoskeleton/wiki) tutorials 
 
 The system has been used as part of apparatus for master thesis projects and special courses at the Technical University of Denmark in the field of neurorehabilitation. The exoskeleton acted as feedback device or controller to Unity scenes or games. Some of the simple Raspberry Pi scripts for these projects has also been uploaded here to serve as inspiration. You can find them [in this folder](https://github.com/REHYB/LegoArmExoskeleton/tree/main/example_code).
 
+
+<img src="https://raw.githubusercontent.com/REHYB/LegoArmExoskeleton/main/pictures/exoskeleton.jpeg" alt="Exoskeleton" width="670"/>
+
 ## Setup
 
 ### Lego setup
